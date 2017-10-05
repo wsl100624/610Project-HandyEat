@@ -21,6 +21,7 @@ Shilong Wang (Will), Yu Chen (Yu), Hsiang Teng (Eric)
 
 - [x] Basic schedule for the whole project (Finished on 10/2)
 - [ ] Each Member's task in detail
+- [ ] Draft of Group Project Plan
 - [ ] Group Project Plan (Due on 10/10)
 
 
