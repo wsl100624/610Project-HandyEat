@@ -1,4 +1,4 @@
-# 610Project-HandyEat
+# SEIS 610 Project
 
 ## Info:
 
@@ -6,7 +6,7 @@ Software Product:
 Mobile App
 
 App Name:
-HandyEat
+**HandyEat**
 
 Team name: E.W.C
 
