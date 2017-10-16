@@ -22,6 +22,7 @@ Shilong Wang (Will), Yu Chen (Yu), Hsiang Teng (Eric)
 - [x] Basic schedule for the whole project (Finished on 10/2)
 - [x] Each Member's task in detail
 - [x] Draft of Group Project Plan
-- [ ] Group Project Plan (Due on 10/10)
-
+- [x] Group Project Plan (Due on 10/10)
+- [ ] Analysis & Define the App 1.1-1.7 (Due on 10/23)
+- [ ] Midterm Review (Due on 10/31)
 
