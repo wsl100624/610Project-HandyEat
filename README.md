@@ -1,4 +1,4 @@
-# SEIS 610 Project
+x# SEIS 610 Project
 
 ## Info:
 
@@ -23,6 +23,6 @@ Shilong Wang (Will), Yu Chen (Yu), Hsiang Teng (Eric)
 - [x] Each Member's task in detail
 - [x] Draft of Group Project Plan
 - [x] Group Project Plan (Due on 10/10)
-- [ ] Analysis & Define the App 1.1-1.7 (Due on 10/23)
+- [x] Analysis & Define the App 1.1-1.7 (Due on 10/23)
 - [ ] Midterm Review (Due on 10/31)
 
