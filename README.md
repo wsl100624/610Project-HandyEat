@@ -1,4 +1,4 @@
-x# SEIS 610 Project
+# SEIS 610 Project
 
 ## Info:
 
