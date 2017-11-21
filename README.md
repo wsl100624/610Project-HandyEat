@@ -1,5 +1,5 @@
  # SEIS 610 Project
-[!alt text] (https://github.com/wsl100624/610Project-HandyEat/Milestone2 - Developing/HandyEat-UI/Mockup.png)
+[!alt text] (https://github.com/wsl100624/610Project-HandyEat/blob/master/Milestone2%20-%20Developing/HandyEat-UI/Mockup.png)
 ## Info:
 
 Software Product:
