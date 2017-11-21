@@ -1,5 +1,6 @@
  # SEIS 610 Project
-[!alt text] (https://user-images.githubusercontent.com/14168053/33100663-ce4f1b02-ceda-11e7-87d3-f08323282167.png)
+[![Mockup.png](https://s17.postimg.org/mk3e7pd5b/Mockup.png)](https://postimg.org/image/gj5pamqiz/)
+
 ## Info:
 
 Software Product:
