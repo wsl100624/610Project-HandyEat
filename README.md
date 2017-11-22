@@ -1,4 +1,5 @@
  # SEIS 610 Project
+[![Mockup.png](https://s17.postimg.org/mk3e7pd5b/Mockup.png)](https://postimg.org/image/gj5pamqiz/)
 
 ## Info:
 
@@ -25,9 +26,8 @@ Shilong Wang (Will), Yu Chen (Yu), Hsiang Teng (Eric)
 - [x] Group Project Plan (Due on 10/10)
 - [x] Analysis & Define the App 1.1-1.7 (Due on 10/23)
 - [x] Midterm Review (Due on 10/31)
-- [ ] Will & Eric: 2.1-Design logic and core functionality (11/1 - 11/7)
-- [ ] Yu: 2.2-Design specific process and user experience (11/7 - 11/14)
-- [ ] Will: 2.3-Design logo & user interfaces (11/15 - 11/22)
+- [x] Will & Eric: 2.1-Design logic and core functionality (11/1 - 11/7)
+- [x] Will: 2.3-Design logo & user interfaces (11/15 - 11/22)
 - [ ] Presentation (11/15 - 11/28)
 
 
