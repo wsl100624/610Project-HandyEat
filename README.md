@@ -28,6 +28,7 @@ Shilong Wang (Will), Yu Chen (Yu), Hsiang Teng (Eric)
 - [x] Midterm Review (Due on 10/31)
 - [x] Will & Eric: 2.1-Design logic and core functionality (11/1 - 11/7)
 - [x] Will: 2.3-Design logo & user interfaces (11/15 - 11/22)
-- [ ] Presentation (11/15 - 11/28)
+- [x] Presentation (11/15 - 11/28)
+- [ ] Final Report (Due on 12/12)
 
 
