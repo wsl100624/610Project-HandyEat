@@ -1,5 +1,4 @@
  # SEIS 610 Project
-[![Mockup.png](https://s17.postimg.org/mk3e7pd5b/Mockup.png)](https://postimg.org/image/gj5pamqiz/)
 
 ## Info:
 
@@ -29,6 +28,6 @@ Shilong Wang (Will), Yu Chen (Yu), Hsiang Teng (Eric)
 - [x] Will & Eric: 2.1-Design logic and core functionality (11/1 - 11/7)
 - [x] Will: 2.3-Design logo & user interfaces (11/15 - 11/22)
 - [x] Presentation (11/15 - 11/28)
-- [ ] Final Report (Due on 12/12)
+- [x] Final Report (Due on 12/12)
 
 
